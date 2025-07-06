@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/FTzjGXF.png" width="100%" alt="Ahmed Mamdouh Banner"/>
+</p>
 
-<!--
-**Abde1moaty/Abde1moaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Ahmed Mamdouh 👋</h1>
+<p align="center">
+  AI Engineering Student
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mongodb,rabbitmq,github,visualstudio" alt="Tech Stack" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:aahmedabdelmoatyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-abdelmoaty-b0500b232/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abde1moaty"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
