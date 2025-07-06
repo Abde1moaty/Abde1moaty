@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="100%" alt="Ahmed Mamdouh Banner"/>
-</p>
+
 
 <h1 align="center">Hey, I'm Ahmed Mamdouh 👋</h1>
 <p align="center">
