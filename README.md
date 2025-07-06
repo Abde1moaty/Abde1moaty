@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/FTzjGXF.png" width="100%" alt="Ahmed Mamdouh Banner"/>
+  <img src="https://i.imgflip.com/65efzo.gif" width="100%" alt="Ahmed Mamdouh Banner"/>
 </p>
 
 <h1 align="center">Hey, I'm Ahmed Mamdouh 👋</h1>
@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abde1moaty&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
